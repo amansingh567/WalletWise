@@ -1,4 +1,4 @@
-# 💸 SmartSpender — Expense Tracker Web App
+# 💸 WalletWise — Expense Tracker Web App
 
 **SmartSpender** is a full-featured, responsive expense tracker built with **React** and **Tailwind CSS**. It allows users to manage income and expenses, visualize financial data, and filter transactions by date, category, and type. The app uses **Chart.js** to generate insightful visualizations and persists data using `localStorage`.
 
